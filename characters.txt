@@ -1,0 +1,4 @@
+----characters----
+cow
+giraffe
+elephant
